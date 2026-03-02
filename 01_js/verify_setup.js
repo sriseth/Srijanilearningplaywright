@@ -1,11 +1,4 @@
-
-console.log(process.platform);
-
-let inp = "srijani seth";
-let output = "";
-
-for (let i = inp.length - 1; i >= 0; i--) {
-    output += inp[i];
-}
-
-console.log(output)
+ let sts = 200; 
+ if (sts === 200) { console.log("OK"); }
+else if (sts === 404) { console.log("Not Found"); } 
+else { console.log("Other"); } 
