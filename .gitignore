@@ -43,3 +43,9 @@ build/
 ## Misc
 coverage-final.json
 npm-debug.log
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
